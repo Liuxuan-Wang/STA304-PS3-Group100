@@ -381,11 +381,19 @@ One last thing we need to mention is the assumption on normality of the response
 + The data were collected from Cycle 24 of GSS in 2010, which seems outdated. For more accurate and applicable results, another survey to collect most recent data and have more regions covered can be conducted. By analyzing  newer survey results with respondents from more countries and regions, the model results will be more practical for the large real world.
 
 
-+ For analyzing, other possible models should be tried to see if there is any other more approriate models which can better fit the data.
++ For analyzing, other possible models should be tried to see if there is any other more appropriate models which can better fit the data.
 
 # Appendix
 
 ![Appendix 1](appendix.jpeg)
+
+![Appendix 2 Procedure to retrieve the raw data file](appendix2.jpg) Appendix 2: Procedure to retrieve the raw data file
+
+
+Appendix 3: Github Link of our source code
+
+https://github.com/Liuxuan-Wang/STA304-PS3-Group100 
+
 
 # References
 
