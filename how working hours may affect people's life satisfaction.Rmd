@@ -32,7 +32,7 @@ Limitations of the study include high non-response rate and the undercoverage pr
 
 # Data
 
-The data we obtained were collected from the twenty-four cycle(Cycle 24) of GSS, Time Stress and Well Being, which was conducted from January to December 2010 for the purpose of collecting data on time use. The target population were all people no younger than 15 years old in Canada except residents of the Yukon, Northwest Territories, and Nunavut and full-time residents of institutions. 
+The data we obtained were collected from the twenty-four cycle(Cycle 24) of GSS, Time Stress and Well Being, which was conducted from January to December 2010 for the purpose of collecting data on time use. The way to retrieve the raw data file has been included in the appendix2. The target population were all people no younger than 15 years old in Canada except residents of the Yukon, Northwest Territories, and Nunavut and full-time residents of institutions. 
 
 The sample frame was all possible 10-digit phone numbers based on the area codes and 3-digit prefixes currently in use after the elimination the non-working banks, and the lists of telephone numbers in use were purchased from the telephone companies for each province in Canada.  
 
@@ -401,12 +401,16 @@ Canada Lists. (2020, April 22). Retrieved October 17, 2020, from https://www.tel
 
 General Social Survey Cycle 24: Time-Stress and Well-being Public Use Microdata File Documentation and User Guide. (2011).
 
-
 How Much Can a Statistician Expect to Get Paid? (n.d.). Retrieved October 17, 2020, from https://money.usnews.com/careers/best-jobs/statistician/salary.
+
+H. Wickham. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2016.
 
 McElearth, Richard, 2020, Statistical Rethinking, 2nd Edition , CRC Press, Chs2.3, 4
 
 Rohan A., Sam C. TA304 Week 5 Lecture Code
+
+Sam Firke (2020). janitor: Simple Tools for Examining and Cleaning Dirty Data. R package version 2.0.1.
+  https://CRAN.R-project.org/package=janitor
 
 The R Project for Statistical Computing. (n.d.). Retrieved October 17, 2020, from https://www.r-project.org/ 
 
